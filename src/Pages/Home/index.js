@@ -11,7 +11,7 @@ const Facebook = styled.div`
 const Home = (props) => {
    return (
       <Layout className='layouttttt'>
-         <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', overflowX: 'hidden', height: '470px', color: 'white'}}>
+         <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', overflowX: 'hidden', height: '470px', color: 'white', backgroundImage: 'url("/slide.jpg")', backgroundSize: '100% 500px'}}>
             <Slider/>
          </div>
          <Container>
