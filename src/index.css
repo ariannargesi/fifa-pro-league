@@ -188,6 +188,7 @@ html body {
 	float: left;
 }
 .topsocial {
+	z-index: 99;
 	margin: 0;
 	padding: 0;
 	list-style: none;
